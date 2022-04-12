@@ -1,0 +1,20 @@
+.heading{
+    text-align: center;
+    font-size: 45px;
+}
+
+.searchHeading{
+    display: inline-block;
+    margin: 10px;
+    margin-left: 23%;
+
+
+}
+
+.countryInput{
+    width:25%;
+    height:34px;
+    font-size: 26px;
+    margin-right: 15px;
+}
+

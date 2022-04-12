@@ -1,0 +1,15 @@
+.country_info {
+  display: inline-block;
+  background-color: #800080;
+  color: white;
+  width: 40%;
+  height: fit-content;
+  text-align: center;
+  margin: 1%;
+  padding: 2%;
+font-size: large;
+  border-radius: 25px;
+}
+.headingMain {
+  margin-left: 1%;
+}
